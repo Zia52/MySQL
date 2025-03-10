@@ -26,4 +26,4 @@ Compatibility: Works with many programming languages (e.g., Python, PHP, Java) a
 
 Learning Resources
 
-Official Documentation: MySQL Documentation
+Official Documentation: [MySQL Documentation](https://dev.mysql.com/doc/)
