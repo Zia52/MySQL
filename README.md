@@ -1,4 +1,5 @@
 What is MySQL?
+
 Relational Database: MySQL organizes data into tables with rows and columns, allowing for efficient data storage and retrieval.
 
 Open Source: MySQL is freely available under the GNU General Public License (GPL), though commercial licenses are also available.
@@ -8,6 +9,7 @@ Cross-Platform: It runs on various operating systems, including Windows, Linux, 
 Client-Server Architecture: MySQL operates on a client-server model, where the database server handles requests from clients (applications or users).
 
 Key Features of MySQL:
+
 High Performance: Optimized for speed and efficiency, even with large datasets.
 
 Scalability: Handles small to large-scale applications.
