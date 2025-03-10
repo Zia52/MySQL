@@ -24,5 +24,6 @@ Storage Engines: Supports multiple storage engines like InnoDB (default), MyISAM
 
 Compatibility: Works with many programming languages (e.g., Python, PHP, Java) and frameworks
 
-Learning Resources:
+Learning Resources
+
 Official Documentation: MySQL Documentation
